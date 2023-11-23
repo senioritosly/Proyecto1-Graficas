@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SR1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\SDL\;CMake Files\..\..\..\..\..\..\SDL\SDL2-2.28.1\;CMake Files\..\..\..\..\..\..\SDL\SDL2-2.28.1\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SR1">
+				<Option output="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/SR1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Develop/glm"/>
+					<Add directory="C:/Users/mario/SDL/SDL2-2.28.1/cmake/../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 SR1"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SR1/fast">
+				<Option output="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/SR1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Develop/glm"/>
+					<Add directory="C:/Users/mario/SDL/SDL2-2.28.1/cmake/../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 SR1/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/src/framebuffer.cpp">
+			<Option target="SR1"/>
+		</Unit>
+		<Unit filename="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/src/framebuffer.h">
+			<Option target="SR1"/>
+		</Unit>
+		<Unit filename="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/src/main.cpp">
+			<Option target="SR1"/>
+		</Unit>
+		<Unit filename="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/../../../../../../SDL/SDL2-2.28.1/cmake/sdl2-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\SDL\SDL2-2.28.1\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/mario/OneDrive/Escritorio/Uni/SEXTOSEMESTRE/Graficos/Proyecto-1-Graficos-main/../../../../../../SDL/SDL2-2.28.1/cmake/sdl2-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\SDL\SDL2-2.28.1\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

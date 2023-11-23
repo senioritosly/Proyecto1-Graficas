@@ -1,0 +1,1 @@
+ "C:/Users/mario/SDL/SDL2-2.28.1/cmake/../lib/x64/SDL2main.lib" "C:/Users/mario/SDL/SDL2-2.28.1/cmake/../lib/x64/SDL2.lib" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
