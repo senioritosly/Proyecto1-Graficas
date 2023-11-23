@@ -23,6 +23,7 @@ Simulación del sistema solar.
 | ----------------- | ------------------------------------------------------------------ |
 | Movement | ARROWS UP AND DOWN |
 | Camera | ARROWS LEFT AND RIGHT |
+| Restart spaceship position | R |
 
 #### Rúbrica
 
